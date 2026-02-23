@@ -22,7 +22,7 @@ const ResumeSection = () => {
           </div>
           <div className="border-l-2 border-primary/30 pl-4 space-y-4">
             <div>
-              <p className="text-sm text-primary font-mono">2021 – Present</p>
+              <p className="text-sm text-primary font-mono">2022 – Present</p>
               <p className="font-medium text-foreground">BSc Telecommunication & Information Engineering</p>
               <p className="text-sm text-muted-foreground">Dedan Kimathi University of Technology</p>
             </div>
@@ -37,7 +37,7 @@ const ResumeSection = () => {
           </div>
           <div className="border-l-2 border-primary/30 pl-4 space-y-4">
             <div>
-              <p className="text-sm text-primary font-mono">May 2024 – Aug 2024</p>
+              <p className="text-sm text-primary font-mono">Feb 2026 – May 2026</p>
               <p className="font-medium text-foreground">Network and Security Attaché</p>
               <p className="text-sm text-muted-foreground">Konza Technopolis Development Authority (KoTDA)</p>
               <p className="text-sm text-muted-foreground mt-1">
