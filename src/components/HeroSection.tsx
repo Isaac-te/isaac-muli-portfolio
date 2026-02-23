@@ -8,7 +8,7 @@ const HeroSection = () => {
         <div className="flex-1 text-center md:text-left">
           <p className="section-subtitle">Hello, I'm</p>
           <h1 className="text-4xl md:text-6xl font-bold mb-4 text-foreground">
-            ISAAC MULI
+            ISAAC MAUNDU MULI
           </h1>
           <p className="text-primary font-mono text-sm md:text-base mb-6">
             Cybersecurity Enthusiast | Networking Student | Aspiring Ethical Hacker
@@ -38,7 +38,7 @@ const HeroSection = () => {
         </div>
         <div className="flex-shrink-0">
           <div className="w-48 h-48 md:w-64 md:h-64 rounded-full overflow-hidden border-2 border-primary/30 shadow-[0_0_30px_hsl(210_100%_55%/0.15)]">
-            <img src={profileImage} alt="Isaac Muli" className="w-full h-full object-cover" />
+            <img src={profileImage} alt="Isaac Maundu Muli" className="w-full h-full object-cover" />
           </div>
         </div>
       </div>

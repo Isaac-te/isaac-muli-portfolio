@@ -24,7 +24,7 @@ const ResumeSection = () => {
             <div>
               <p className="text-sm text-primary font-mono">2021 – Present</p>
               <p className="font-medium text-foreground">BSc Telecommunication & Information Engineering</p>
-              <p className="text-sm text-muted-foreground">Jomo Kenyatta University of Agriculture and Technology</p>
+              <p className="text-sm text-muted-foreground">Dedan Kimathi University of Technology</p>
             </div>
           </div>
         </div>
@@ -38,8 +38,8 @@ const ResumeSection = () => {
           <div className="border-l-2 border-primary/30 pl-4 space-y-4">
             <div>
               <p className="text-sm text-primary font-mono">May 2024 – Aug 2024</p>
-              <p className="font-medium text-foreground">IT & Network Intern</p>
-              <p className="text-sm text-muted-foreground">XYZ Telecommunications Ltd.</p>
+              <p className="font-medium text-foreground">Network and Security Attaché</p>
+              <p className="text-sm text-muted-foreground">Konza Technopolis Development Authority (KoTDA)</p>
               <p className="text-sm text-muted-foreground mt-1">
                 Assisted in network monitoring, firewall configuration, and vulnerability assessments on internal systems.
               </p>
@@ -54,17 +54,17 @@ const ResumeSection = () => {
             <h3 className="text-lg font-semibold text-foreground">Certifications</h3>
           </div>
           <ul className="space-y-2 text-muted-foreground text-sm">
-            <li className="flex items-center gap-2">
+             <li className="flex items-center gap-2">
               <span className="w-1.5 h-1.5 rounded-full bg-primary flex-shrink-0" />
-              Cisco CCNA – In Progress
+              Network Basics – Cisco Networking Academy
             </li>
             <li className="flex items-center gap-2">
               <span className="w-1.5 h-1.5 rounded-full bg-primary flex-shrink-0" />
-              Introduction to Cybersecurity – Cisco Networking Academy
+              Cisco Ethical Hacker Course
             </li>
             <li className="flex items-center gap-2">
               <span className="w-1.5 h-1.5 rounded-full bg-primary flex-shrink-0" />
-              Google Cybersecurity Professional Certificate – In Progress
+              Animation and Visual Effects – Dekut Film Hub
             </li>
           </ul>
         </div>
